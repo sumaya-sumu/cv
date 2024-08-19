@@ -1,0 +1,37 @@
+img {
+  height: auto;
+  width: 210px;
+  border-radius: 30px 5px 30px 5px;
+  border: 1px solid black;
+  box-shadow: 0px 0px 30px -10px black;
+}
+
+section#a4pg {
+  width: 600px;
+  margin: auto;
+  border: 1px solid #adadad;
+  padding: 80px 50px;
+  border-radius: 10px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  background: cornsilk;
+  box-shadow: 0px 0px 50px -10px;
+}
+
+table.tbl2 {
+  margin: auto;
+}
+
+table.tbl1 {
+  margin: auto;
+}
+
+div#divimg {
+  text-align: center;
+}
+
+h2.head1 {
+  padding: 0;
+  margin: 30px 0px 10px 0px;
+  border-bottom: 2px dashed;
+}
